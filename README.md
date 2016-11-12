@@ -1,4 +1,4 @@
-# Snake's and Traps!
+# Snakes and Traps!
 A two-level game, supporting Snakes and Ladders and Classic Snake's game through Bash Shell Scripting.
 
 The project basically involves SNAKE and LADDER game,where players have to roll dice to get random numbers.
